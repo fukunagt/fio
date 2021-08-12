@@ -1,5 +1,5 @@
 # fio
-- The purpose of the repository to save how to use [fio]()https://github.com/axboe/fio for benchmark test.
+- The purpose of the repository to save how to use [fio](https://github.com/axboe/fio) for benchmark test.
 
 ## Sample Scripts
 - There are sample scripts.
